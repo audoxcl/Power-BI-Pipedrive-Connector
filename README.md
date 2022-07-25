@@ -22,3 +22,7 @@ In Power BI Desktop you should set all these parameters (in the Power Query Edit
 4. pipedrive_token: the token to access Pipedrive data. This token is located in your Pipedrive account in 'Personal preferences' -> API.
 
 This connector might be limited due to Pipedrive API rate limitations.
+
+Contact Us:
+www.audox.com
+info@audox.com
