@@ -4,7 +4,7 @@
 * This code was developed by:
 * Audox Ingeniería SpA.
 * website: www.audox.com
-* email: info@audox.cl
+* email: info@audox.com
 ######################### */
 
 include 'auth.php';
