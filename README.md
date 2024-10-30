@@ -21,6 +21,10 @@ In Power BI Desktop you should set all these parameters (in the Power Query Edit
 3. **domain:** the Pipedrive domain for your company. This domain is also used in Power BI report to create the url link to each record inside your Pipedrive account. The domain is located in your Pipedrive account in 'Company Settings' -> General -> 'Company domain'.
 4. **pipedrive_token:** the token to access Pipedrive data. This token is located in your Pipedrive account in 'Personal preferences' -> API.
 
+### Detailed Instructions
+
+https://www.audox.com/tools/power-bi-pipedrive-connector/
+
 ### YouTube Playlist Tutorials
 
 https://www.youtube.com/playlist?list=PLI3w6pdNV1sQfDFH3mKRbjYWH0zZjxEMX
