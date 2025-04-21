@@ -31,6 +31,11 @@ https://www.youtube.com/playlist?list=PLI3w6pdNV1sQfDFH3mKRbjYWH0zZjxEMX
 
 This connector might be limited due to Pipedrive API rate limitations.
 
+## Paid Version
+
+Don't want to struggle with installation and updates? You can consider our paid version here:
+https://rapidapi.com/audox-ingenieria-spa-audox-ingenieria-spa-default/api/power-bi-pipedrive-connector/pricing
+
 ## Contact Us:
 
 - info@audox.com
